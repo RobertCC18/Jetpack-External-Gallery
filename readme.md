@@ -17,3 +17,7 @@ Download this repo as a zip file, upload to your wordpress site as a zip through
 ## NOTE!! 
 
 You must have Jetpack installed for this to work!!
+
+## All Code Is Included AS IS, Use At Your Own Discresion 
+
+Please open an issue for all problems.
